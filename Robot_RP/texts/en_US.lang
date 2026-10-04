@@ -1,0 +1,2 @@
+entity.demo:robot.name=Robot
+item.spawn_egg.entity.demo:robot.name=Spawn Robot
