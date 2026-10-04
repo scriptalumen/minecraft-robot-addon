@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Robot Behavior Pack",
+    "description": "Behavior for my robot",
+    "uuid": "3e1241f4-0149-4b9f-a2ed-ebdebba70c93",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "a34a9d77-f423-470c-8826-d6b7b3fc2ff3",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "8fd370d7-366e-426b-a8f0-3866e525cf6b",
+      "version": [1, 0, 0]
+    }
+  ]
+}
