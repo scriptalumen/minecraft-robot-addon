@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Robot Resource Pack",
+    "description": "Resources for my robot",
+    "uuid": "8fd370d7-366e-426b-a8f0-3866e525cf6b",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "c75a9447-f3d5-4d3a-aa1f-42b8b55eb947",
+      "version": [1, 0, 0]
+    }
+  ]
+}
